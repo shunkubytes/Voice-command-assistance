@@ -7,7 +7,7 @@
 
 import speech_recognition as sr #for speech recognition
 import pyttsx3 # for text to speech conversion
-from selenium import webdriver # to interact with firefox web browser
+from selenium import webdriver # to interact with firefox web browser , would need geckodriver for firefox and chromedriver for google chrome
 from selenium.webdriver.common.keys import Keys
 import time # gives current time
 
